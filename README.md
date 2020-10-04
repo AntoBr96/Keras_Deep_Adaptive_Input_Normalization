@@ -1,0 +1,2 @@
+# Keras_Deep_Adaptive_Input_Normalization
+This notebook contains the Keras/Tensorflow Layer implementation of the Deep Adaptive Input Normalization model for Time Series Forecasting proposed by Passalis et al. The authors of the above mentioned paper propose a PyTorch implementation (PyTorch implementation) of the model. A slightly reviewed version (software structure) is here reported. Results obtained by the two implementations are compared through an explicative example.
