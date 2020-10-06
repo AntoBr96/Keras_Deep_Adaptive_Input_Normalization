@@ -7,7 +7,7 @@ The authors of the above mentioned paper propose a PyTorch implementation ([PyTo
 If you use the proposed Tensorflow/Keras implementation in your work please cite:
 
 <pre>
-@software{briola_antonio_2020_4066525,
+@misc{briola_antonio_2020_4066525,
   author = {Briola, Antonio},
   title = {{Keras/Tensorflow implementation of the Deep 
                    Adaptive Input Normalization Layer for Time Series
