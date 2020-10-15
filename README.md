@@ -8,7 +8,7 @@ If you use the proposed Tensorflow/Keras implementation in your work please cite
 
 <pre>
 @misc{briola_antonio_2020_4066525,
-  author = {Briola, Antonio},
+  author = {Briola, Antonio and Turiel, Jeremy David},
   title = {{Keras/Tensorflow implementation of the Deep 
                    Adaptive Input Normalization Layer for Time Series
                    Forecasting - First Release}},
